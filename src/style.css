@@ -1,0 +1,20 @@
+*{
+  margin: 0%;
+  overflow: hidden;
+}
+nav {
+  position: relative;
+  top: 0;
+  width: 100%;
+  padding: 1rem;
+  background: rgba(0, 0, 0, 0.5);
+  text-align: center;
+  z-index: 10;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 1rem;
+  font-family: Arial, sans-serif;
+  font-size: 1.2rem;
+}
