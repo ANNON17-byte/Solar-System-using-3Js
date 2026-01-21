@@ -65,12 +65,6 @@ Scroll – Zoom in/out
 
 Right Click + Drag – Pan camera
 
-📸 Screenshots
-
-Add screenshots or GIFs of your project here
-
-![Solar System Preview](./assets/preview.png)
-
 🌟 Future Enhancements
 
 🌑 Moons for planets
